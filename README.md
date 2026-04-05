@@ -1,6 +1,6 @@
 # 🚀 Umesh Kapadnis – Portfolio Website
 
-🌐 **Live Demo:** https://yourusername.github.io/umesh-portfolio/
+🌐 **Live Demo:** https://umeshkapadnis62.github.io/umesh-portfolio/
 
 ---
 
@@ -33,68 +33,6 @@ The portfolio features a **modern neon UI**, smooth animations, and interactive 
 * **Styling:** Custom CSS (Glassmorphism + Neon Effects)
 * **Icons:** Font Awesome
 * **Fonts:** Google Fonts (Inter)
-
----
-
-## 📂 Project Structure
-
-```
-portfolio/
-│── index.html
-│── README.md
-```
-
----
-
-## 🚀 Getting Started
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/umesh-portfolio.git
-```
-
-### 2️⃣ Open Project
-
-Simply open `index.html` in your browser.
-
----
-
-## 🌍 Deployment
-
-This project is deployed using **GitHub Pages**.
-
-To deploy:
-
-1. Go to **Settings → Pages**
-2. Select **main branch**
-3. Save and get your live link
-
----
-
-## 📸 Preview
-
-> Add screenshot here (optional)
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 B.E. IT Engineering Student
-* 📍 Nashik, Maharashtra
-* 📊 CGPA: 9.32/10
-* 💻 Aspiring **Java Full Stack Developer**
-
----
-
-## 📫 Contact Me
-
-* 📧 Email: [umeshkapadnis62@gmail.com](mailto:umeshkapadnis62@gmail.com)
-* 📱 Phone: +91 9309839664
-* 🔗 GitHub: https://github.com/yourusername
-* 🔗 LinkedIn: https://linkedin.com/in/yourprofile
-
----
 
 ## ⭐ Show Your Support
 
